@@ -11,14 +11,12 @@
             "id": "9b2339204032f58b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Code.md",
-                "mode": "source",
-                "source": false
+                "file": "pic/Pasted image 20250520112459.png"
               },
-              "icon": "lucide-file",
-              "title": "Code"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250520112459"
             }
           }
         ]
@@ -170,7 +168,7 @@
   },
   "active": "9b2339204032f58b",
   "lastOpenFiles": [
-    "pic/Pasted image 20250520112459.png",
-    "Code.md"
+    "Code.md",
+    "pic/Pasted image 20250520112459.png"
   ]
 }
